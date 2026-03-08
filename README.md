@@ -1,29 +1,40 @@
+<!-- HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Aditya%20Singh&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <h1 align="center">👋 Hi, I'm Aditya Singh</h1>
-<h3 align="center">💻 Software Engineer in Progress | 🚀 Tech Enthusiast | 🧠 Problem Solver</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;DSA+%7C+Backend+Developer;Full+Stack+Developer;Tech+Enthusiast" />
+
+</p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 B.Tech **Computer Science Engineering Student**
-💻 Passionate about **Programming, Problem Solving & Software Development**
-🚀 Currently focusing on **DSA, Backend Development & Scalable Systems**
+🎓 **B.Tech Computer Science Engineering Student**
 
-* 🧠 Strong focus on **Data Structures & Algorithms**
-* ⚡ Building **real-world full stack projects**
-* 🔥 Continuously improving coding skills
-* 💡 Interested in **backend architecture & system design**
+💻 Passionate about **Programming, Problem Solving & Software Development**
+
+🚀 Currently focused on
+
+* ⚡ **Data Structures & Algorithms**
+* 🌐 **Full Stack Development**
+* 🧠 **Backend Architecture**
+* ☁️ **Deployment & Cloud**
+
+🔥 Consistently improving coding skills and building real-world projects.
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 ## 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" height="65"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" height="70"/>
 </p>
 
 ---
@@ -31,7 +42,7 @@
 ## 🌐 Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" height="65"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" height="70"/>
 </p>
 
 ---
@@ -39,7 +50,7 @@
 ## 🗄️ Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" height="65"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="70"/>
 </p>
 
 ---
@@ -47,7 +58,7 @@
 ## ☁️ Deployment & Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vercel,render" height="65"/>
+<img src="https://skillicons.dev/icons?i=vercel,render" height="70"/>
 </p>
 
 ---
@@ -55,7 +66,7 @@
 ## ⚙️ Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="65"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="70"/>
 </p>
 
 ---
@@ -75,25 +86,52 @@
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh6533&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🧠 Currently Learning
+# 📈 GitHub Activity Graph
 
-🚀 Advanced **Data Structures & Algorithms**
-⚡ **Backend Development**
-🧠 **System Design Basics**
-🌐 **Modern Full Stack Development**
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasingh6533&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</p>
 
 ---
 
 # 🎯 Career Goals
 
 ✔ Become a **Skilled Software Engineer**
-✔ Master **DSA & Backend Development**
-✔ Build **Impactful Scalable Applications**
+
+✔ Master **Data Structures & Algorithms**
+
+✔ Build **Scalable Backend Systems**
+
+✔ Develop **Impactful Applications**
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adityasingh6533&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 ---
 
