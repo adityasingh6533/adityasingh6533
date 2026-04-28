@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Aditya%20Singh&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+
 
 <h1 align="center">Aditya Singh</h1>
 
