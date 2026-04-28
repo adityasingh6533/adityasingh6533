@@ -1,12 +1,9 @@
 
 
-<h1 align="center">Aditya Singh</h1>
-
-<p align="center">Backend Focused Developer &nbsp;·&nbsp; C++ | JavaScript | TypeScript | React</p>
+## </> Skills
 
 ---
 
-## ⚙️ Skills
 
 ### 🧠 Low-Level & Core
 
