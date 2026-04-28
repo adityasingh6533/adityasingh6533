@@ -1,6 +1,6 @@
 
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22"/> Skills
+## <span style="font-size: 28px;">&lt;/&gt;</span> <span style="background: linear-gradient(90deg,#58A6FF,#C084FC); -webkit-background-clip: text; color: transparent;">Skills</span> ⚡
 
 ---
 
