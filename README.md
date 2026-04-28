@@ -13,9 +13,9 @@
 ### 🧠 Low-Level & Core
 
 <p>
-<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Data%20Structures-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-FF6F61?style=for-the-badge"/>
 </p>
 
 ---
@@ -23,8 +23,8 @@
 ### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
@@ -32,9 +32,9 @@
 ### 🌐 Backend & Web
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge"/>
 </p>
 
 ---
@@ -42,11 +42,11 @@
 ### 🛢️ Database & Tools
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
 </p>
 
 ---
@@ -76,17 +76,17 @@
 
 <p>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=adityasingh6533&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=adityasingh6533&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
